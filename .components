@@ -1,0 +1,9 @@
+---
+:orm: mongomapper
+:test: rspec
+:mock: none
+:script: none
+:renderer: slim
+:stylesheet: none
+:namespace: This2thatIo
+:migration_format: number
